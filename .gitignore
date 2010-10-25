@@ -1,0 +1,13 @@
+*
+!/.gitignore
+
+!/otf-district-thin
+/otf-district-thin/*
+!/otf-district-thin/PKGBUILD
+!/otf-district-thin/otf-district-thin.install
+
+!/ttf-segan-light
+/ttf-segan-light/*
+!/ttf-segan-light/LICENSE
+!/ttf-segan-light/PKGBUILD
+!/ttf-segan-light/ttf-segan-light.install
