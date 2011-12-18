@@ -11,3 +11,8 @@
 !/ttf-segan-light/LICENSE
 !/ttf-segan-light/PKGBUILD
 !/ttf-segan-light/ttf-segan-light.install
+
+!/ttf-zick-fonts
+/ttf-zick-fonts/*
+!/ttf-zick-fonts/PKGBUILD
+!/ttf-zick-fonts/ttf-zick-fonts.install
