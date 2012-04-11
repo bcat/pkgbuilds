@@ -6,6 +6,13 @@
 !/otf-district-thin/PKGBUILD
 !/otf-district-thin/otf-district-thin.install
 
+!/rxvt-unicode-patched-vte-scroll
+/rxvt-unicode-patched-vte-scroll/*
+!/rxvt-unicode-patched-vte-scroll/font-width-fix.patch
+!/rxvt-unicode-patched-vte-scroll/PKGBUILD
+!/rxvt-unicode-patched-vte-scroll/rxvt-unicode.desktop
+!/rxvt-unicode-patched-vte-scroll/secondary-wheel.patch
+
 !/ttf-segan-light
 /ttf-segan-light/*
 !/ttf-segan-light/LICENSE
