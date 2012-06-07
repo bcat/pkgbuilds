@@ -8,10 +8,14 @@
 
 !/rxvt-unicode-patched-vte-scroll
 /rxvt-unicode-patched-vte-scroll/*
+!/rxvt-unicode-patched-vte-scroll/clear.patch
 !/rxvt-unicode-patched-vte-scroll/font-width-fix.patch
 !/rxvt-unicode-patched-vte-scroll/PKGBUILD
-!/rxvt-unicode-patched-vte-scroll/rxvt-unicode.desktop
+!/rxvt-unicode-patched-vte-scroll/scrolling.patch
 !/rxvt-unicode-patched-vte-scroll/secondary-wheel.patch
+!/rxvt-unicode-patched-vte-scroll/urxvtc.desktop
+!/rxvt-unicode-patched-vte-scroll/urxvt.desktop
+!/rxvt-unicode-patched-vte-scroll/urxvt-tabbed.desktop
 
 !/ttf-segan-light
 /ttf-segan-light/*
